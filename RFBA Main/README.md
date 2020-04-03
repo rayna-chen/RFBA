@@ -10,7 +10,8 @@ Codes are modefied based on 3B algorithm and SRRF algorithm. For detailed compar
 Visual Studio 2015+CUDA8.0
 
 ## DATA REQUIREMENT
-The test data can be download from XXXX, which includes simulated microtubule data and experimental nucleus data.
+The test data can be download from https://github.com/rayna-chen/RFBA/tree/master/Test%20Data, which includes microtubule data and nucleus data, as well as their corresponding results.
+
 To run the inference on your own data, make sure that:
 1. The data is 3-D tiff sequence with no less than 30 volumes. 
 2. The data is in 8-bit or 16-bit.
