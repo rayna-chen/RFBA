@@ -1,3 +1,10 @@
+/*
+This code is a CUDA implementation for 3D images of SRRF(Super-Resolution Radial Fluctuations) gradient calculation algorithm. Part of codes are derived from NanoJ-SRRF Project. https://github.com/HenriquesLab/NanoJ-SRRF
+Ref: N. Gustafsson, S. Culley, G. Ashdown, D. M. Owen, P. M. Pereira, R. Henriques, Nat Commun 2016, 7, 12471.
+
+
+*/
+
 
 #include "cuda_runtime.h"
 #include "device_launch_parameters.h"
